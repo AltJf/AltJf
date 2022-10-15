@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AltJf
-- 👀 I’m interested in: Web development with React Js aswell Mobile development with Flutter.
+- 👀 I’m interested in: Web development with React Js aswell Mobile development with Flutter, aswell as Data analysis.
 - 🌱 I’m currently learning: flutter and Python
 
 <!---
