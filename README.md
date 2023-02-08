@@ -14,7 +14,7 @@
 
 ![alt text](https://github.com/AltJf/AltJf/blob/main/rainbow_bar.png?raw=true)
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,c,cpp,python,html,css,flutter,arduino,firebase,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,c,cpp,python,html,css,flutter,arduino,firebase,nodejs,react,linux,latex,)](https://skillicons.dev)
 
 ![alt text](https://github.com/AltJf/AltJf/blob/main/rainbow_bar.png?raw=true)
 
