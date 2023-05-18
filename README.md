@@ -1,16 +1,14 @@
-![alt text](https://github.com/AltJf/AltJf/blob/main/altjfone.gif?raw=true)
-
 ***
 ![alt text](https://github.com/AltJf/AltJf/blob/main/rainbow_bar.png?raw=true)
 <span style="font-family:sf pro; font-size:4em;">
 > Hey! I am AltJf, and I love programming!
 >> Stuff I'm interested in are: 
 >>
-> * Web Development and UX/UI design
-> * Data Analysis with Python
+> * Web Development 
+> * Data Analysis and statistics in Python
 > * App Development with Flutter 
-> * Product Development
 > * Arduino
+> * AI with Scikit-learn
 
 ![alt text](https://github.com/AltJf/AltJf/blob/main/rainbow_bar.png?raw=true)
 
