@@ -1,13 +1,9 @@
-![alt text](https://github.com/AltJf/AltJf/blob/main/rainbow_bar.png?raw=true)
 <span style="font-family:sf pro; font-size:4em;">
-> Hey! I am AltJf, and I love programming!
+> Always learning
 * Stuff I'm interested in are: 
 >>
-> * Web Development 
 > * Data Analysis and statistics in Python
-> * App Development with Flutter 
-> * Arduino
-> * AI with Scikit-learn
+> * Anything regarding applications of various topics from Discrete Mathematics. 
 
 ![alt text](https://github.com/AltJf/AltJf/blob/main/rainbow_bar.png?raw=true)
 <p align="center">
@@ -15,8 +11,6 @@
     <img src="https://skillicons.dev/icons?i=js,java,python,c,html,css,firebase,flutter,react,nodejs,latex,linux,arduino"/>
   </a>
 </p>
-  
-![alt text](https://github.com/AltJf/AltJf/blob/main/rainbow_bar.png?raw=true)
 
 </span>
 <!---
